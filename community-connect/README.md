@@ -1,4 +1,4 @@
-Community Connect - A Community Issue Tracking Platform
+Community Connect m
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue)](https://mmetja-lethabo-kekana.github.io/community_connect_frontend/)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://reactjs.org/)
@@ -26,7 +26,7 @@ Community Connect is a community-driven platform that empowers residents to repo
 
 ---
 
-## Features
+##-Features
 
 ### Dashboard & Map
 - **Interactive Map** - View all reported issues with color-coded markers (🔴 Submitted, 🟡 In Progress, 🟢 Resolved)
