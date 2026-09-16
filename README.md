@@ -177,7 +177,6 @@ community_connect_frontend/
 ├── index.html
 ├── package.json
 ├── vite.config.js
-└── README.md
 ```
 
 ---
