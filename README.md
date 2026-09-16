@@ -69,10 +69,11 @@ Community Connect is a community-driven platform that empowers residents to repo
 
 ## Tech Stack
 
-**Frontend** | React 18, Vite \n
-**Mapping** | Leaflet, React-Leaflet 
-**Styling** | CSS3, Flexbox, Grid 
-**Data Persistence** | localStorage (prototype) 
+**Frontend** - React 18, Vite |
+**Mapping** - Leaflet, React-Leaflet |
+**Styling** - CSS3, Flexbox, Grid |
+**Data Persistence** - localStorage (prototype) |
+
 **Version Control** | Git, GitHub 
 **Deployment** | GitHub Pages, GitHub Actions 
 **Icons** | Lucide React 
