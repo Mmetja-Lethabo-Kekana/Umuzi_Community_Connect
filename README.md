@@ -6,7 +6,7 @@ Community Connect
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 **About:**
-Community Connect is a community-driven platform that empowers residents to report local issues, track progress with unique reference numbers, discover community events, volunteer, and support local businesses—all without creating an account or sharing personal data.
+Community Connect is a community-driven platform that empowers residents to report local issues, track progress with unique reference numbers, discover community events, volunteer, and support local businesses, all without creating an account or sharing personal data.
 
 **Live Demo:** [https://mmetja-lethabo-kekana.github.io/community_connect_frontend/](https://mmetja-lethabo-kekana.github.io/community_connect_frontend/)
 
@@ -26,7 +26,7 @@ Community Connect is a community-driven platform that empowers residents to repo
 
 ---
 
-#-features
+## Features
 
 ### Dashboard & Map
 - **Interactive Map** - View all reported issues with color-coded markers (🔴 Submitted, 🟡 In Progress, 🟢 Resolved)
@@ -69,7 +69,7 @@ Community Connect is a community-driven platform that empowers residents to repo
 
 ## Tech Stack
 
-**Frontend** | React 18, Vite 
+**Frontend** | React 18, Vite \n
 **Mapping** | Leaflet, React-Leaflet 
 **Styling** | CSS3, Flexbox, Grid 
 **Data Persistence** | localStorage (prototype) 
